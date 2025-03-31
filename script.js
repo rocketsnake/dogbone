@@ -1,7 +1,7 @@
 window.onload = function(){
-    window.open('https://dfe922ucr7iz-m74q85osrgn7v.hop.clickbank.net')
+    window.open('https://a7027--htfcyqo71oh4owymx3u.hop.clickbank.net')
 }
 
 function forward(){
-    window.open('https://dfe922ucr7iz-m74q85osrgn7v.hop.clickbank.net')
+    window.open('https://a7027--htfcyqo71oh4owymx3u.hop.clickbank.net')
 }
